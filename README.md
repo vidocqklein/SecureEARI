@@ -1,4 +1,4 @@
-# EARi
+# EARI
 
 ## Dependency
 - Python 3.9
