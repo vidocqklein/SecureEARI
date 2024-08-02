@@ -16,7 +16,7 @@
 
 ## Running the Code
 We do not provide the trained model since the training cost for each experiment is acceptable. You can train the model by yourself by running the following command.
-For example, to train the EARi model on the Cora and Dblpv7 dataset, you can run the following command:
+For example, to train the EARI model on the Cora and Dblpv7 datasets, you can run the following command:
 ```
 python main.py cora --model eari --epochs 2000 --lr 0.01 --ptb_rate 0.03 --threshhold 0.8 --inductive_setting False --perturb_nodes_radio 0.5
 
